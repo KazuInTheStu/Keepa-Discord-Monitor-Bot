@@ -12,7 +12,7 @@ This is a Python script that monitors the prices of products on Amazon using the
 
 1. Clone the repository:
 
-git clone https://github.com/username/repo.git
+git clone https://github.com/KazuInTheStu/Keepa-Discord-Monitor-Bot.git
 
 
 2. Install the required packages:
