@@ -1,6 +1,6 @@
 # Discord-Keepa Price Tracker
 
-This is a Python script that monitors the prices of products on Amazon using the Keepa API, and sends a Discord notification whenever the price of a product changes by a specified percentage threshold.
+This is a Python script that monitors the prices of products on Amazon using the Keepa API, and sends a Discord notification whenever the price of a product changes by a specified percentage threshold. ( Handy for those looking for pricing errors )
 
 ## Prerequisites
 
